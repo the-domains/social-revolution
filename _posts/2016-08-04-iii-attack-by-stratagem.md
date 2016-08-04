@@ -25,16 +25,14 @@ description: >-
   BCE in Chinese warfare.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://davidryman.com/index.php/ArtofWar/2010/02/24/iii-attack-by-stratagem-1'
 title: III. ATTACK BY STRATAGEM
-datePublished: '2016-08-04T19:33:08.730Z'
-dateModified: '2016-08-04T19:32:47.359Z'
+datePublished: '2016-08-04T19:33:58.754Z'
+dateModified: '2016-08-04T19:33:58.360Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-04-iii-attack-by-stratagem.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: iii-attack-by-stratagem/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
