@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: David Ryman
+  email: linux@davidryman.com
+  url: davidryman.com
 name: Social Revolution
 cta:
   domain: null
