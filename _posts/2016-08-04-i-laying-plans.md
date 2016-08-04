@@ -25,16 +25,14 @@ description: >-
   BCE in Chinese warfare.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://davidryman.com/index.php/ArtofWar/2010/02/24/i-laying-plans-1'
 title: I. LAYING PLANS
-datePublished: '2016-08-04T19:25:57.357Z'
-dateModified: '2016-08-04T19:24:40.318Z'
+datePublished: '2016-08-04T19:33:36.904Z'
+dateModified: '2016-08-04T19:33:36.386Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-04-i-laying-plans.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: i-laying-plans/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
