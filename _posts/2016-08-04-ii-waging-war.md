@@ -1,6 +1,5 @@
 ---
-datePublished: '2016-08-04T19:33:11.031Z'
-isBasedOnUrl: 'http://davidryman.com/index.php/ArtofWar/2010/02/24/ii-waging-war-1'
+datePublished: '2016-08-04T19:33:48.937Z'
 keywords:
   - chariots
   - enemy
@@ -15,7 +14,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-04T19:31:02.097Z'
+dateModified: '2016-08-04T19:33:48.589Z'
 title: II. WAGING WAR
 app_links: []
 publisher:
@@ -30,11 +29,10 @@ description: >-
   mentions the use of chariots, which were used for a brief period around 400
   BCE in Chinese warfare.
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-08-04-ii-waging-war.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: ii-waging-war/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
