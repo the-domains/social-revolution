@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: I. LAYING PLANS
+    id: 37fffe34-11f1-4b1f-9909-aa721605361b
+    type: content
 favicon: null
 title: Manifesto
 description: For exponential growth
