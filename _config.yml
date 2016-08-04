@@ -28,6 +28,9 @@ navigation:
   - name: I. LAYING PLANS
     id: 37fffe34-11f1-4b1f-9909-aa721605361b
     type: content
+  - name: II. WAGING WAR
+    id: f9643c0f-a5e1-4261-ba56-12ee331d7c40
+    type: content
 favicon: null
 title: Manifesto
 description: For exponential growth
